@@ -10,7 +10,7 @@ def get_networks():
             position = line.find(":")
             network = line[position + 2:]
             password = information_network(network)
-            networks.append("Nome = "+ network + " // Senha = " + password)
+            networks.append("  ///  Nome = "+ network + " // Senha = " + password)
     return networks
 
 def information_network(wifi):
