@@ -1,1 +1,1 @@
-As senhas do dia sao: ['  ///  Nome = SLAVIERO // Senha = ', '  ///  Nome = #COA FREE WIFI // Senha = ', '  ///  Nome = VIVOFIBRA-8AA1_plus // Senha = ', '  ///  Nome = Edson2G // Senha = peabiru26', '  ///  Nome = NET_2G75CBAD // Senha = B375CBAD'] // 2023-09-11 01:21:02.989207 
+As senhas do dia sao: ['Nome = Edson5G // Senha = peabiru26', 'Nome = Edson2G // Senha = peabiru26'] // 2023-09-11 02:14:07.802047 
