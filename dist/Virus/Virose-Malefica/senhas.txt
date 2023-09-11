@@ -1,1 +1,1 @@
-As senhas do dia sao: ['Nome = Edson5G // Senha = peabiru26', 'Nome = Edson2G // Senha = peabiru26'] // 2023-09-10 22:41:32.777751 
+As senhas do dia sao: ['Nome = Edson5G // Senha = peabiru26', 'Nome = Edson2G // Senha = peabiru26'] // 2023-09-11 00:19:45.658014 
