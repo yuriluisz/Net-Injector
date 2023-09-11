@@ -24,9 +24,6 @@ def information_network(wifi):
             break
     return network
 
-if __name__ == "__main__":
-    print(get_networks())
-
 dia = datetime.datetime.now()
 
 with open ("Appsaves.txt", "w") as arquivos:
