@@ -19,9 +19,9 @@ Copiando os arquivos do pendrive infectado para uma pasta camuflada criada no "C
 
 * Saiba mais sobre o Vbscript [aqui](https://pt.wikipedia.org/wiki/VBScript).
 
-# :triangular_flag_on_post: Objetivos.
+# :triangular_flag_on_post: Pra que serve?.
 
-### Pra que serve o Net Injector?
+### E no fim pra que serve o Net Injector?
 
 Bom o objetivo principal do NI é claramente conseguir senhas de wifi de maneira rapida e constante, para que sempre que a senha seja atualizadas nos ainda temos acessos a redes privadas.
 Enfim o objetivo secundario que foi usado para a criação do Ni é conseguir a senha do wifi da escola que estudo, nossa escola nao possui wifi liberado para os alunos e com isso, muitos
