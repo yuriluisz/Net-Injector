@@ -19,7 +19,7 @@ Copiando os arquivos do pendrive infectado para uma pasta camuflada criada no "C
 
 * Saiba mais sobre o Vbscript [aqui](https://pt.wikipedia.org/wiki/VBScript).
 
-# :triangular_flag_on_post: Pra que serve?.
+# :triangular_flag_on_post: Pra que serve?
 
 ### E no fim pra que serve o Net Injector?
 
