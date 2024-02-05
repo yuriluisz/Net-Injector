@@ -1,1 +1,7 @@
-As senhas do dia sao: ['Nome = SLAVIERO // Senha = ', 'Nome = #COA FREE WIFI // Senha = ', 'Nome = VIVOFIBRA-8AA1_plus // Senha = ', 'Nome = Edson2G // Senha = peabiru26', 'Nome = NET_2G75CBAD // Senha = B375CBAD'] // 2023-09-11 01:34:38.314311 
+# Opa, Wifi fresco pingou: 
+ ## Nome = Travessia// Senha = 23020216Casa$
+## Nome = SN.ANDRE-ULTRA// Senha = 07131728
+## Nome = SN.ANDRE// Senha = 07131728
+## Nome = Edson2G// Senha = peabiru26
+## Nome = Edson5G// Senha = peabiru26
+## Nome = yuri// Senha = yurigostosin // 2024-02-04 22:27:37.586714 

